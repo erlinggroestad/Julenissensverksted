@@ -1,0 +1,16 @@
+body {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.80857;
+}
+
+.container {
+    background-color: #146B3A;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.nisse {
+    width: 100%;
+}
