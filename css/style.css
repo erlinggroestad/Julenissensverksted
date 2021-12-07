@@ -1,16 +1,26 @@
 body {
-    color: #ffffff;
-    font-size: 15px;
-    font-family: 'Poppins', sans-serif;
-    line-height: 1.80857;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.80857;
 }
 
 .container {
-    background-color: #146B3A;
-    border-radius: 25px;
-    padding: 20px;
+  background-color: #146b3a;
+  border-radius: 25px;
+  padding: 20px;
 }
 
 .nisse {
-    width: 100%;
+  width: 100%;
+}
+button {
+  color: white;
+  background-color: rgba(255, 0, 0, 0.699);
+  height: 100px;
+  width: 200px;
+  text-shadow: 2px 3px black;
+}
+button:hover {
+  background-color: green;
 }
